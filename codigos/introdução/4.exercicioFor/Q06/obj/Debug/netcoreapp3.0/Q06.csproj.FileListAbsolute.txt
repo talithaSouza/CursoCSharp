@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/4.exercicioFor/Q06/bin/Debug/netcoreapp3.0/Q06
+/home/carol/Área de Trabalho/Cursos/C#/codigos/4.exercicioFor/Q06/bin/Debug/netcoreapp3.0/Q06.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/4.exercicioFor/Q06/bin/Debug/netcoreapp3.0/Q06.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/4.exercicioFor/Q06/bin/Debug/netcoreapp3.0/Q06.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/4.exercicioFor/Q06/bin/Debug/netcoreapp3.0/Q06.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/4.exercicioFor/Q06/bin/Debug/netcoreapp3.0/Q06.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/4.exercicioFor/Q06/obj/Debug/netcoreapp3.0/Q06.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/4.exercicioFor/Q06/obj/Debug/netcoreapp3.0/Q06.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/4.exercicioFor/Q06/obj/Debug/netcoreapp3.0/Q06.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/4.exercicioFor/Q06/obj/Debug/netcoreapp3.0/Q06.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/4.exercicioFor/Q06/obj/Debug/netcoreapp3.0/Q06.pdb

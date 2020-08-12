@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S9.Enumerações e composição/CursoComposicao/obj/Debug/netcoreapp3.0/CursoComposicao.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S9.Enumerações e composição/CursoComposicao/obj/Debug/netcoreapp3.0/CursoComposicao.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S9.Enumerações e composição/CursoComposicao/obj/Debug/netcoreapp3.0/CursoComposicao.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S9.Enumerações e composição/CursoComposicao/bin/Debug/netcoreapp3.0/CursoComposicao
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S9.Enumerações e composição/CursoComposicao/bin/Debug/netcoreapp3.0/CursoComposicao.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S9.Enumerações e composição/CursoComposicao/bin/Debug/netcoreapp3.0/CursoComposicao.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S9.Enumerações e composição/CursoComposicao/bin/Debug/netcoreapp3.0/CursoComposicao.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S9.Enumerações e composição/CursoComposicao/bin/Debug/netcoreapp3.0/CursoComposicao.dll
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S9.Enumerações e composição/CursoComposicao/bin/Debug/netcoreapp3.0/CursoComposicao.pdb
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S9.Enumerações e composição/CursoComposicao/obj/Debug/netcoreapp3.0/CursoComposicao.dll
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S9.Enumerações e composição/CursoComposicao/obj/Debug/netcoreapp3.0/CursoComposicao.pdb

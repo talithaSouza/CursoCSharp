@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/2.array e lista/CursoVetComClasse/bin/Debug/netcoreapp3.0/CursoVetComClasse
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/2.array e lista/CursoVetComClasse/bin/Debug/netcoreapp3.0/CursoVetComClasse.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/2.array e lista/CursoVetComClasse/bin/Debug/netcoreapp3.0/CursoVetComClasse.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/2.array e lista/CursoVetComClasse/bin/Debug/netcoreapp3.0/CursoVetComClasse.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/2.array e lista/CursoVetComClasse/bin/Debug/netcoreapp3.0/CursoVetComClasse.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/2.array e lista/CursoVetComClasse/bin/Debug/netcoreapp3.0/CursoVetComClasse.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/2.array e lista/CursoVetComClasse/obj/Debug/netcoreapp3.0/CursoVetComClasse.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/2.array e lista/CursoVetComClasse/obj/Debug/netcoreapp3.0/CursoVetComClasse.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/2.array e lista/CursoVetComClasse/obj/Debug/netcoreapp3.0/CursoVetComClasse.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/2.array e lista/CursoVetComClasse/obj/Debug/netcoreapp3.0/CursoVetComClasse.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/2.array e lista/CursoVetComClasse/obj/Debug/netcoreapp3.0/CursoVetComClasse.pdb

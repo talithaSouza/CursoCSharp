@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exerciciosEstruSequen/Q01/bin/Debug/netcoreapp3.0/Q01
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exerciciosEstruSequen/Q01/bin/Debug/netcoreapp3.0/Q01.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exerciciosEstruSequen/Q01/bin/Debug/netcoreapp3.0/Q01.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exerciciosEstruSequen/Q01/bin/Debug/netcoreapp3.0/Q01.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exerciciosEstruSequen/Q01/bin/Debug/netcoreapp3.0/Q01.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exerciciosEstruSequen/Q01/bin/Debug/netcoreapp3.0/Q01.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exerciciosEstruSequen/Q01/obj/Debug/netcoreapp3.0/Q01.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exerciciosEstruSequen/Q01/obj/Debug/netcoreapp3.0/Q01.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exerciciosEstruSequen/Q01/obj/Debug/netcoreapp3.0/Q01.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exerciciosEstruSequen/Q01/obj/Debug/netcoreapp3.0/Q01.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exerciciosEstruSequen/Q01/obj/Debug/netcoreapp3.0/Q01.pdb

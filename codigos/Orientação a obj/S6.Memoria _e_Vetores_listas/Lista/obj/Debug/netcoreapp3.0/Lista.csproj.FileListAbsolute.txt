@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Lista/obj/Debug/netcoreapp3.0/Lista.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Lista/obj/Debug/netcoreapp3.0/Lista.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Lista/obj/Debug/netcoreapp3.0/Lista.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Lista/bin/Debug/netcoreapp3.0/Lista
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Lista/bin/Debug/netcoreapp3.0/Lista.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Lista/bin/Debug/netcoreapp3.0/Lista.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Lista/bin/Debug/netcoreapp3.0/Lista.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Lista/bin/Debug/netcoreapp3.0/Lista.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Lista/bin/Debug/netcoreapp3.0/Lista.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Lista/obj/Debug/netcoreapp3.0/Lista.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Lista/obj/Debug/netcoreapp3.0/Lista.pdb

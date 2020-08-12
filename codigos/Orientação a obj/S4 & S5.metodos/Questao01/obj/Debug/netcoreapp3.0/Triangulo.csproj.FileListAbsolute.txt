@@ -1,0 +1,14 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Triangulo/obj/Debug/netcoreapp3.0/Triangulo.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Triangulo/obj/Debug/netcoreapp3.0/Triangulo.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Triangulo/obj/Debug/netcoreapp3.0/Triangulo.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao01/obj/Debug/netcoreapp3.0/Triangulo.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao01/obj/Debug/netcoreapp3.0/Triangulo.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao01/obj/Debug/netcoreapp3.0/Triangulo.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao01/bin/Debug/netcoreapp3.0/Triangulo
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao01/bin/Debug/netcoreapp3.0/Triangulo.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao01/bin/Debug/netcoreapp3.0/Triangulo.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao01/bin/Debug/netcoreapp3.0/Triangulo.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao01/bin/Debug/netcoreapp3.0/Triangulo.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao01/bin/Debug/netcoreapp3.0/Triangulo.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao01/obj/Debug/netcoreapp3.0/Triangulo.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao01/obj/Debug/netcoreapp3.0/Triangulo.pdb

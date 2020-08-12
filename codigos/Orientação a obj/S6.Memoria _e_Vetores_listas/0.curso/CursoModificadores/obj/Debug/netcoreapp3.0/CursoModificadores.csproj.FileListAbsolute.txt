@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores/0.curso/CursoModificadores/bin/Debug/netcoreapp3.0/CursoModificadores
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores/0.curso/CursoModificadores/bin/Debug/netcoreapp3.0/CursoModificadores.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores/0.curso/CursoModificadores/bin/Debug/netcoreapp3.0/CursoModificadores.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores/0.curso/CursoModificadores/bin/Debug/netcoreapp3.0/CursoModificadores.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores/0.curso/CursoModificadores/bin/Debug/netcoreapp3.0/CursoModificadores.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores/0.curso/CursoModificadores/bin/Debug/netcoreapp3.0/CursoModificadores.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores/0.curso/CursoModificadores/obj/Debug/netcoreapp3.0/CursoModificadores.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores/0.curso/CursoModificadores/obj/Debug/netcoreapp3.0/CursoModificadores.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores/0.curso/CursoModificadores/obj/Debug/netcoreapp3.0/CursoModificadores.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores/0.curso/CursoModificadores/obj/Debug/netcoreapp3.0/CursoModificadores.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores/0.curso/CursoModificadores/obj/Debug/netcoreapp3.0/CursoModificadores.pdb

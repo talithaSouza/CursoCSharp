@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exercicioFixaçao/entradaDeDados/bin/Debug/netcoreapp3.0/entradaDeDados
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exercicioFixaçao/entradaDeDados/bin/Debug/netcoreapp3.0/entradaDeDados.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exercicioFixaçao/entradaDeDados/bin/Debug/netcoreapp3.0/entradaDeDados.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exercicioFixaçao/entradaDeDados/bin/Debug/netcoreapp3.0/entradaDeDados.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exercicioFixaçao/entradaDeDados/bin/Debug/netcoreapp3.0/entradaDeDados.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exercicioFixaçao/entradaDeDados/bin/Debug/netcoreapp3.0/entradaDeDados.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exercicioFixaçao/entradaDeDados/obj/Debug/netcoreapp3.0/entradaDeDados.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exercicioFixaçao/entradaDeDados/obj/Debug/netcoreapp3.0/entradaDeDados.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exercicioFixaçao/entradaDeDados/obj/Debug/netcoreapp3.0/entradaDeDados.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exercicioFixaçao/entradaDeDados/obj/Debug/netcoreapp3.0/entradaDeDados.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/exercicioFixaçao/entradaDeDados/obj/Debug/netcoreapp3.0/entradaDeDados.pdb

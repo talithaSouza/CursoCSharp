@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CursoMatrizes/1.0.0": {
+        "runtime": {
+          "CursoMatrizes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoMatrizes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

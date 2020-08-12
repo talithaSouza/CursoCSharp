@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Statico/bin/Debug/netcoreapp3.0/Static
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Statico/bin/Debug/netcoreapp3.0/Static.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Statico/bin/Debug/netcoreapp3.0/Static.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Statico/bin/Debug/netcoreapp3.0/Static.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Statico/bin/Debug/netcoreapp3.0/Static.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Statico/bin/Debug/netcoreapp3.0/Static.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Statico/obj/Debug/netcoreapp3.0/Static.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Statico/obj/Debug/netcoreapp3.0/Static.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Statico/obj/Debug/netcoreapp3.0/Static.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Statico/obj/Debug/netcoreapp3.0/Static.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Statico/obj/Debug/netcoreapp3.0/Static.pdb

@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Matriz/bin/Debug/netcoreapp3.0/Matriz
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Matriz/bin/Debug/netcoreapp3.0/Matriz.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Matriz/bin/Debug/netcoreapp3.0/Matriz.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Matriz/bin/Debug/netcoreapp3.0/Matriz.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Matriz/bin/Debug/netcoreapp3.0/Matriz.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Matriz/bin/Debug/netcoreapp3.0/Matriz.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Matriz/obj/Debug/netcoreapp3.0/Matriz.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Matriz/obj/Debug/netcoreapp3.0/Matriz.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Matriz/obj/Debug/netcoreapp3.0/Matriz.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Matriz/obj/Debug/netcoreapp3.0/Matriz.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria _e_Vetores_listas/Matriz/obj/Debug/netcoreapp3.0/Matriz.pdb

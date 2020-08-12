@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/FuncaoStrig/bin/Debug/netcoreapp3.0/FuncaoStrig
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/FuncaoStrig/bin/Debug/netcoreapp3.0/FuncaoStrig.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/FuncaoStrig/bin/Debug/netcoreapp3.0/FuncaoStrig.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/FuncaoStrig/bin/Debug/netcoreapp3.0/FuncaoStrig.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/FuncaoStrig/bin/Debug/netcoreapp3.0/FuncaoStrig.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/FuncaoStrig/bin/Debug/netcoreapp3.0/FuncaoStrig.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/FuncaoStrig/obj/Debug/netcoreapp3.0/FuncaoStrig.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/FuncaoStrig/obj/Debug/netcoreapp3.0/FuncaoStrig.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/FuncaoStrig/obj/Debug/netcoreapp3.0/FuncaoStrig.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/FuncaoStrig/obj/Debug/netcoreapp3.0/FuncaoStrig.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/FuncaoStrig/obj/Debug/netcoreapp3.0/FuncaoStrig.pdb

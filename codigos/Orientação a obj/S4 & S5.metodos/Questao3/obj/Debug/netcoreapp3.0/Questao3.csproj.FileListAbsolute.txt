@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao3/obj/Debug/netcoreapp3.0/Questao3.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao3/obj/Debug/netcoreapp3.0/Questao3.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao3/obj/Debug/netcoreapp3.0/Questao3.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao3/bin/Debug/netcoreapp3.0/Questao3
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao3/bin/Debug/netcoreapp3.0/Questao3.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao3/bin/Debug/netcoreapp3.0/Questao3.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao3/bin/Debug/netcoreapp3.0/Questao3.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao3/bin/Debug/netcoreapp3.0/Questao3.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao3/bin/Debug/netcoreapp3.0/Questao3.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao3/obj/Debug/netcoreapp3.0/Questao3.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/01.metodos/Questao3/obj/Debug/netcoreapp3.0/Questao3.pdb

@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/atributos e propeties(S5)/ContaBancaria/bin/Debug/netcoreapp3.0/ContaBancaria
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/atributos e propeties(S5)/ContaBancaria/bin/Debug/netcoreapp3.0/ContaBancaria.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/atributos e propeties(S5)/ContaBancaria/bin/Debug/netcoreapp3.0/ContaBancaria.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/atributos e propeties(S5)/ContaBancaria/bin/Debug/netcoreapp3.0/ContaBancaria.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/atributos e propeties(S5)/ContaBancaria/bin/Debug/netcoreapp3.0/ContaBancaria.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/atributos e propeties(S5)/ContaBancaria/bin/Debug/netcoreapp3.0/ContaBancaria.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/atributos e propeties(S5)/ContaBancaria/obj/Debug/netcoreapp3.0/ContaBancaria.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/atributos e propeties(S5)/ContaBancaria/obj/Debug/netcoreapp3.0/ContaBancaria.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/atributos e propeties(S5)/ContaBancaria/obj/Debug/netcoreapp3.0/ContaBancaria.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/atributos e propeties(S5)/ContaBancaria/obj/Debug/netcoreapp3.0/ContaBancaria.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/atributos e propeties(S5)/ContaBancaria/obj/Debug/netcoreapp3.0/ContaBancaria.pdb

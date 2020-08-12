@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S9.Enumerações e composição/CursoEnum/obj/Debug/netcoreapp3.0/CursoEnum.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S9.Enumerações e composição/CursoEnum/obj/Debug/netcoreapp3.0/CursoEnum.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S9.Enumerações e composição/CursoEnum/obj/Debug/netcoreapp3.0/CursoEnum.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S9.Enumerações e composição/CursoEnum/bin/Debug/netcoreapp3.0/CursoEnum
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S9.Enumerações e composição/CursoEnum/bin/Debug/netcoreapp3.0/CursoEnum.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S9.Enumerações e composição/CursoEnum/bin/Debug/netcoreapp3.0/CursoEnum.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S9.Enumerações e composição/CursoEnum/bin/Debug/netcoreapp3.0/CursoEnum.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S9.Enumerações e composição/CursoEnum/bin/Debug/netcoreapp3.0/CursoEnum.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S9.Enumerações e composição/CursoEnum/bin/Debug/netcoreapp3.0/CursoEnum.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S9.Enumerações e composição/CursoEnum/obj/Debug/netcoreapp3.0/CursoEnum.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S9.Enumerações e composição/CursoEnum/obj/Debug/netcoreapp3.0/CursoEnum.pdb

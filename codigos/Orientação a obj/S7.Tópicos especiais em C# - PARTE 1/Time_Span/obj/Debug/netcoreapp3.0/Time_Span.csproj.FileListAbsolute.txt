@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/Time_Span/bin/Debug/netcoreapp3.0/Time_Span
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/Time_Span/bin/Debug/netcoreapp3.0/Time_Span.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/Time_Span/bin/Debug/netcoreapp3.0/Time_Span.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/Time_Span/bin/Debug/netcoreapp3.0/Time_Span.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/Time_Span/bin/Debug/netcoreapp3.0/Time_Span.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/Time_Span/bin/Debug/netcoreapp3.0/Time_Span.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/Time_Span/obj/Debug/netcoreapp3.0/Time_Span.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/Time_Span/obj/Debug/netcoreapp3.0/Time_Span.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/Time_Span/obj/Debug/netcoreapp3.0/Time_Span.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/Time_Span/obj/Debug/netcoreapp3.0/Time_Span.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S7.Tópicos especiais em C# - PARTE 1/Time_Span/obj/Debug/netcoreapp3.0/Time_Span.pdb

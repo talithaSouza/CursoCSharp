@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria  e Vetores/Pensionato/bin/Debug/netcoreapp3.0/Pensionato
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria  e Vetores/Pensionato/bin/Debug/netcoreapp3.0/Pensionato.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria  e Vetores/Pensionato/bin/Debug/netcoreapp3.0/Pensionato.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria  e Vetores/Pensionato/bin/Debug/netcoreapp3.0/Pensionato.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria  e Vetores/Pensionato/bin/Debug/netcoreapp3.0/Pensionato.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria  e Vetores/Pensionato/bin/Debug/netcoreapp3.0/Pensionato.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria  e Vetores/Pensionato/obj/Debug/netcoreapp3.0/Pensionato.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria  e Vetores/Pensionato/obj/Debug/netcoreapp3.0/Pensionato.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria  e Vetores/Pensionato/obj/Debug/netcoreapp3.0/Pensionato.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria  e Vetores/Pensionato/obj/Debug/netcoreapp3.0/Pensionato.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/S6.Memoria  e Vetores/Pensionato/obj/Debug/netcoreapp3.0/Pensionato.pdb

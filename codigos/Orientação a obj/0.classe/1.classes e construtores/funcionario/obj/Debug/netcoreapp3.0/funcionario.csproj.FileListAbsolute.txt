@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/funcionario/bin/Debug/netcoreapp3.0/funcionario
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/funcionario/bin/Debug/netcoreapp3.0/funcionario.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/funcionario/bin/Debug/netcoreapp3.0/funcionario.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/funcionario/bin/Debug/netcoreapp3.0/funcionario.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/funcionario/bin/Debug/netcoreapp3.0/funcionario.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/funcionario/bin/Debug/netcoreapp3.0/funcionario.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/funcionario/obj/Debug/netcoreapp3.0/funcionario.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/funcionario/obj/Debug/netcoreapp3.0/funcionario.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/funcionario/obj/Debug/netcoreapp3.0/funcionario.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/funcionario/obj/Debug/netcoreapp3.0/funcionario.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/funcionario/obj/Debug/netcoreapp3.0/funcionario.pdb

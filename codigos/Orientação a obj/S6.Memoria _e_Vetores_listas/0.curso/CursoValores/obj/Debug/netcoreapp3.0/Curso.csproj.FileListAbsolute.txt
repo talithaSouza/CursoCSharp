@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/array e lista/Curso/bin/Debug/netcoreapp3.0/Curso
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/array e lista/Curso/bin/Debug/netcoreapp3.0/Curso.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/array e lista/Curso/bin/Debug/netcoreapp3.0/Curso.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/array e lista/Curso/bin/Debug/netcoreapp3.0/Curso.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/array e lista/Curso/bin/Debug/netcoreapp3.0/Curso.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/array e lista/Curso/bin/Debug/netcoreapp3.0/Curso.pdb
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/array e lista/Curso/obj/Debug/netcoreapp3.0/Curso.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/array e lista/Curso/obj/Debug/netcoreapp3.0/Curso.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/array e lista/Curso/obj/Debug/netcoreapp3.0/Curso.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/array e lista/Curso/obj/Debug/netcoreapp3.0/Curso.dll
+/home/carol/Área de Trabalho/Cursos/C#/codigos/Orientação a obj/0.classe/array e lista/Curso/obj/Debug/netcoreapp3.0/Curso.pdb
