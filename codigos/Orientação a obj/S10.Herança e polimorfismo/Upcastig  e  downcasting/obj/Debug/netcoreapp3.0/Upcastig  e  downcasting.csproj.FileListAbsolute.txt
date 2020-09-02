@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/Upcastig  e  downcasting/bin/Debug/netcoreapp3.0/Upcastig  e  downcasting
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/Upcastig  e  downcasting/bin/Debug/netcoreapp3.0/Upcastig  e  downcasting.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/Upcastig  e  downcasting/bin/Debug/netcoreapp3.0/Upcastig  e  downcasting.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/Upcastig  e  downcasting/bin/Debug/netcoreapp3.0/Upcastig  e  downcasting.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/Upcastig  e  downcasting/bin/Debug/netcoreapp3.0/Upcastig  e  downcasting.dll
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/Upcastig  e  downcasting/bin/Debug/netcoreapp3.0/Upcastig  e  downcasting.pdb
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/Upcastig  e  downcasting/obj/Debug/netcoreapp3.0/Upcastig  e  downcasting.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/Upcastig  e  downcasting/obj/Debug/netcoreapp3.0/Upcastig  e  downcasting.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/Upcastig  e  downcasting/obj/Debug/netcoreapp3.0/Upcastig  e  downcasting.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/Upcastig  e  downcasting/obj/Debug/netcoreapp3.0/Upcastig  e  downcasting.dll
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/Upcastig  e  downcasting/obj/Debug/netcoreapp3.0/Upcastig  e  downcasting.pdb

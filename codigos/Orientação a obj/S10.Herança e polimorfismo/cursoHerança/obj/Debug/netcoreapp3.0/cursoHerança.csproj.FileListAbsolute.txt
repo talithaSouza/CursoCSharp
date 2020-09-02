@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/cursoHerança/bin/Debug/netcoreapp3.0/cursoHerança
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/cursoHerança/bin/Debug/netcoreapp3.0/cursoHerança.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/cursoHerança/bin/Debug/netcoreapp3.0/cursoHerança.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/cursoHerança/bin/Debug/netcoreapp3.0/cursoHerança.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/cursoHerança/bin/Debug/netcoreapp3.0/cursoHerança.dll
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/cursoHerança/bin/Debug/netcoreapp3.0/cursoHerança.pdb
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/cursoHerança/obj/Debug/netcoreapp3.0/cursoHerança.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/cursoHerança/obj/Debug/netcoreapp3.0/cursoHerança.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/cursoHerança/obj/Debug/netcoreapp3.0/cursoHerança.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/cursoHerança/obj/Debug/netcoreapp3.0/cursoHerança.dll
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/cursoHerança/obj/Debug/netcoreapp3.0/cursoHerança.pdb
