@@ -1,0 +1,11 @@
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/exer02/obj/Debug/netcoreapp3.0/exer02.csprojAssemblyReference.cache
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/exer02/obj/Debug/netcoreapp3.0/exer02.AssemblyInfoInputs.cache
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/exer02/obj/Debug/netcoreapp3.0/exer02.AssemblyInfo.cs
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/exer02/bin/Debug/netcoreapp3.0/exer02
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/exer02/bin/Debug/netcoreapp3.0/exer02.deps.json
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/exer02/bin/Debug/netcoreapp3.0/exer02.runtimeconfig.json
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/exer02/bin/Debug/netcoreapp3.0/exer02.runtimeconfig.dev.json
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/exer02/bin/Debug/netcoreapp3.0/exer02.dll
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/exer02/bin/Debug/netcoreapp3.0/exer02.pdb
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/exer02/obj/Debug/netcoreapp3.0/exer02.dll
+/home/carol/Área de Trabalho/Cursos/C#/Aprendizado/codigos/Orientação a obj/S10.Herança e polimorfismo/exer02/obj/Debug/netcoreapp3.0/exer02.pdb
